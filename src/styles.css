@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+.contacts {
+  display: grid;
+  grid-template-columns: auto;
+  background: silver;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  margin: 10px;
+}

@@ -2,8 +2,8 @@ img {
   width: 200px;
 }
 
-form {
-  align-self: flex-start;
+.form {
+  text-align: center;
 }
 
 .contacts {
@@ -17,6 +17,7 @@ form {
 ul {
   list-style-type: none;
 }
+
 li {
   margin-top: 20px;
   width: 30%;
